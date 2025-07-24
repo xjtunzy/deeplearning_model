@@ -2,5 +2,6 @@
 This repository contains deep learning models for image classification.
 
 ## Features
--diffusion model '\n'
+-diffusion model  
+
 -pytorch
