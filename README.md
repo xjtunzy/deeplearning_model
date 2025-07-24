@@ -1,7 +1,3 @@
-# deeplearning_model
-This repository contains deep learning models for image classification.
-
-## Features
--diffusion model  
-
--pytorch
+# 深度学习模型用于生成模型    
+在MNIST数据集上进行训练  
+(1)VAE:使用MLP作为解码器和编码
